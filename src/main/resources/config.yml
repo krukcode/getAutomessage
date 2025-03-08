@@ -1,0 +1,8 @@
+time: 120
+prefix: '&8[&a&lAuto&e&lMessage&8]'
+messages:
+  - '&7Website: ...'
+  - '&7Plugin creator: KRUK CODE | DISCORD: https://discord.gg/ckTxEE5GNE'
+  - '&7This is test message!'
+  - '&cYou can config messages in config.yml'
+# You can add your own messages!

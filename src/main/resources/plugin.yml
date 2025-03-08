@@ -1,0 +1,5 @@
+name: getAutoMessage
+version: '${project.version}'
+main: pl.bambusmc.getautomessage.Main
+api-version: '1.18'
+author: kruk-code
